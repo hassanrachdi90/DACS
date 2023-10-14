@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DACS", "DACS\DACS.csproj", "{FDA59C93-6EB4-4B86-A2BB-3C4E55FA9A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA59C93-6EB4-4B86-A2BB-3C4E55FA9A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA59C93-6EB4-4B86-A2BB-3C4E55FA9A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA59C93-6EB4-4B86-A2BB-3C4E55FA9A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA59C93-6EB4-4B86-A2BB-3C4E55FA9A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB22A07-9A83-4CC1-A52C-D41D38B42A41}
+	EndGlobalSection
+EndGlobal
